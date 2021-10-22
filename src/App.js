@@ -13,7 +13,6 @@ class App extends Component {
       
       name: 'FELEX ONYANGO',
       profession: 'Full stack Software Developer',
-      bio: '❤ Full stack Developer - Growth Hacker at Solo-Learn, CSS Lover. Better known as The Grumpy Developer.',
       address: 'Nairobi Kenya.',
       social: [
         
@@ -21,13 +20,14 @@ class App extends Component {
         {name: 'twitter', url: 'https://twitter.com/OnyangoFelex'},
         {name: 'github', url: 'https://github.com/Felexonyango'},
         {name: 'linkedin', url: 'https://www.linkedin.com/in/felex-onyango-912359201/'},
+        {name:'facebook',url:'https://web.facebook.com/felix.onyango.3150'}
      
       ],
       experience: [
-        {jobTitle: 'Software Developer', company: 'Dsc Community', startDate: 'November 2018', endDate: 'Present', jobDescription: 'Tech lead at Dsc Laikpia unversity ,Mentoring students on how web designing and web development solves   various tech solutions and leading in hackathons to boost their skill on  developmment'}
+        {jobTitle: 'Software Developer', company: 'Brainverse software technology Ltd', startDate: 'January 2021', endDate: 'August2021', jobDescription: 'Intern developer , Developing Embedded systems'}
       ],
       education: [
-        {degree: 'Bachelor of Information and Technology', institution: 'Laikipia unversity', startDate: 'September 2018', endDate: 'Present', description: 'Undertaking my degree Course with the lean on software develpment ,yes its my passion!'},
+        {degree: 'Bachelor of Information and Technology', institution: 'Laikipia unversity', startDate: 'September 2018', endDate: 'Present', description: 'Undertaking my degree Course with the lean on software develpment '},
         
       ],
       certificate: [
@@ -37,19 +37,18 @@ class App extends Component {
       skills: [
         {name: 'HTML5'},
         {name: 'CSS'},
-        {name: 'JavaScript'},
         {name:'React'},
-        {name:'Redux'},
+        {name:"Enzyme and Jest"},
+        {name:'Nextjs'},
         {name:'Nodejs'},
         {name:'Express'},
         {name:'MongoDB'},
         {name:'Heruko $ Netlify'},
         {name:'Git'},
         {name:'DevOps'},
-        {name:'Linux'}
-
-
-       
+        {name:'Linux'},
+        {name:'Docker'},
+        {name:'Ngnix'}
       ]
     };
 

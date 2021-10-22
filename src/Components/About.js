@@ -6,7 +6,7 @@ const About = ({avatar, name, profession, bio, address, social}) => {
   return(
     <div className='bio'>
       <div className='avatar'>
-        <img src="./avatar.png" alt={name} />
+        <img src="./avatar.jpg" alt={name} />
       </div>
       <div className='title'>
         <h1>{name}</h1>
