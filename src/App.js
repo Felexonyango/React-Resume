@@ -6,6 +6,7 @@ import Certificate from './Components/Certificate';
 import Skills from './Components/Skills';
 import  Contact from './Components/Contact'
 import './App.css'
+import Reference from './Components/Reference';
 class App extends Component {
   render() {
 
@@ -71,6 +72,7 @@ class App extends Component {
                 <Certificate certificate={person.certificate} />
                 <Skills skills={person.skills} />
                 <Contact/>
+                <Reference/>
               </div>
           </div>
 
