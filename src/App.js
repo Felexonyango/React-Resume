@@ -28,11 +28,11 @@ class App extends Component {
         {jobTitle: 'Software Developer', company: 'Brainverse software technology Ltd', startDate: 'January 2021', endDate: 'August2021', jobDescription: 'Former Intern  software developer ,building  Embedded systems and SaaS products'}
       ],
       education: [
-        {degree: 'Bachelor of Information and Technology', institution: 'Laikipia unversity', startDate: 'September 2018', endDate: 'Present', description: 'Undertaking my undergraduate studies  with the lean on software development'},
+        {degree: 'Bachelor of Information and Technology', institution: 'Laikipia unversity', startDate: 'September 2018', endDate: 'Present', description: 'Undertaking undergraduate studies  with the lean on software development'},
         
       ],
       certificate: [
-        {name: 'Frontend Developer', institution: 'Udemy', date: 'Jan 2019', description: 'I startted my journey at Udemy  and awarded a certificate as a Front end developer with lean on React Redux .' },
+        {name: 'Frontend Developer', institution: 'Udemy', date: 'Jan 2019', description: 'I started my journey at Udemy  and awarded a certificate as a Front end developer with lean on React and NexJs .' },
         {name: 'Backend Developer', institution: 'Udemy', date: 'Jan 2020', description: 'I was awarded a certificate as a  Backend Developer with lean on Nodejs Express Js.' }
       ],
       skills: [
