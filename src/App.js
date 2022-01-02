@@ -25,7 +25,7 @@ class App extends Component {
      
       ],
       experience: [
-        {jobTitle: 'Software Developer', company: 'Brainverse software technology Ltd', startDate: 'January 2021', endDate: 'August2021', jobDescription: 'Former Intern  software developer ,building  Embedded systems and SaaS products'}
+        {jobTitle: 'Software Developer', company: 'Brainverse software technology Ltd', startDate: 'January 2021', endDate: 'August2021', jobDescription: 'Former Intern  software developer ,building   SaaS products'}
       ],
       education: [
         {degree: 'Bachelor of Information and Technology', institution: 'Laikipia unversity', startDate: 'September 2018', endDate: 'Present', description: 'Undertaking undergraduate studies  with the lean on software development'},
